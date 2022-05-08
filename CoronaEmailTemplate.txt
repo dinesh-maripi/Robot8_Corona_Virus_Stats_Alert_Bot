@@ -1,0 +1,13 @@
+Hi <strong>{0}<strong>,
+
+<h2>Latest corona stats:</h2>
+
+
+<p>Total Cases: <strong>{1}</strong> </p>
+<p>Total Deaths: <strong>{2}</strong> </p>
+<p>Total Recovered: <strong>{3}</strong> </p>
+
+
+
+Regards,
+<p><Strong>Dinesh M</strong></p>
